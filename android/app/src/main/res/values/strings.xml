@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pasar Amuntai</string>
+     <string moduleConfig="true" name="CodePushDeploymentKey">dvkj1vXEf8TzD7gg8d6pVNuY6t1BskBZprzLAK</string>
+</resources>
